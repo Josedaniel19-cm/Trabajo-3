@@ -91,20 +91,7 @@ El proyecto se desarrolla en Python utilizando las siguientes librerías:
 | Scikit-learn | Estandarización, PCA y K-means. |
 | Jupyter Notebook | Desarrollo y documentación del experimento. |
 
-## 6. Estructura del repositorio
-
-```text
-Trabajo-Practico-3/
-│
-├── Palmer_Penguins_Analisis.ipynb
-│
-├── README.md
-│
-└── data/
-    └── penguins.csv
-```
-
-## 7. Resultados y hallazgos
+## 6. Resultados y hallazgos
 
 El experimento permitirá comparar el desempeño de los tres enfoques de agrupamiento y determinar cuál ofrece mejores resultados para identificar patrones en las características físicas de los pingüinos.
 
@@ -118,7 +105,7 @@ Se analizarán principalmente:
 
 Los resultados numéricos, gráficos e interpretaciones definitivas se encuentran documentados en el Jupyter Notebook.
 
-## 8. Conclusión
+## 7. Conclusión
 
 El desarrollo de este experimento permite comprender la utilidad de las técnicas de aprendizaje no supervisado para identificar patrones en conjuntos de datos sin necesidad de utilizar una variable objetivo durante el entrenamiento.
 
@@ -126,8 +113,4 @@ La comparación entre PCA, selección de variables y K-means permite evaluar có
 
 De esta manera, el proyecto busca determinar cuál enfoque resulta más apropiado para representar y analizar las diferencias físicas entre los pingüinos del conjunto de datos seleccionado.
 
----
 
-**Trabajo Práctico 3 - Aprendizaje No Supervisado**
-
-Proyecto académico desarrollado en Python.
